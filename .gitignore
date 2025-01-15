@@ -1,4 +1,11 @@
-env/
+# Python virtual environments
+venv/
+.env/
+
+# Byte-compiled files
 __pycache__/
 *.pyc
-.DS_Store
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
